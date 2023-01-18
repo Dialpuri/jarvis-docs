@@ -68,3 +68,13 @@ To check job status simply run the following command
 If you would like to filter to jobs only you have started use the --u flag
 	
 	squeue -u <username> 
+	
+### Cancelling jobs
+
+To cancel a job, first get the JOB_ID from 
+	
+	squeue
+	
+then run 
+
+	scancel <JOB_ID>
