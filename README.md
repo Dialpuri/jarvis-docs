@@ -32,9 +32,7 @@ echo Running job on host:
 echo -e '\t'`hostname` at `date`
 echo
  
-source py/bin/activate # source python virtualenv
-  
-python run_job.py
+COMMANDS YOU WOULD RUN IN TERMINAL HERE
   
 echo
 echo Job completed at `date`
@@ -55,10 +53,8 @@ echo Running job on host:
 echo -e '\t'`hostname` at `date`
 echo
  
-source py/bin/activate # source python virtualenv
-  
-python run_job.py
-  
+COMMANDS YOU WOULD RUN IN TERMINAL HERE
+    
 echo
 echo Job completed at `date`
 ~~~
