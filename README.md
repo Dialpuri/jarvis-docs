@@ -2,9 +2,9 @@
 
 ## Connecting to Jarvis
 
-Once you have a user account setup you can connect to jarvis using the following command in a terminal. 
+Once you have a University of York account setup you can connect to jarvis using the following command in a terminal (need to be in university network - VPN). 
 
-	ssh <username>@jarvis.chem.york.ac.uk
+	ssh <username>@jarvis.its.york.ac.uk
 
 It will prompt you to enter your password and after you should be met with a terminal screen which looks similar to this 
 
