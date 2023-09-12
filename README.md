@@ -10,7 +10,11 @@ It will prompt you to enter your password and after you should be met with a ter
 
 	jarvis:~>
 
-or this: 
+if you are more familiar with a bash terminal type
+
+	bash 
+
+and your terminal should change to this: 
 
 	username@jarvis:~$  
 
