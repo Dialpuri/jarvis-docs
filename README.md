@@ -6,7 +6,11 @@ Once you have a University of York account setup you can connect to jarvis using
 
 	ssh <username>@jarvis.its.york.ac.uk
 
-It will prompt you to enter your password and after you should be met with a terminal screen which looks similar to this 
+It will prompt you to enter your password and after you should be met with a terminal screen which looks similar to this:
+
+	jarvis:~>
+
+or this: 
 
 	username@jarvis:~$  
 
