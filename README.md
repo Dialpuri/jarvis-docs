@@ -59,6 +59,9 @@ echo
 echo Job completed at `date`
 ~~~
 
+### Running job 
+	sbatch JOBNAME.job
+
 ### Checking job status
 
 To check job status simply run the following command 
